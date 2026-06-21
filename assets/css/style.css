@@ -512,10 +512,7 @@ section:nth-child(even) {
   background: transparent;
   border-radius: 0;
   box-shadow: none;
-  display: grid;
-  grid-template-columns: 100px 1fr;
-  gap: 1rem;
-  align-items: baseline;
+  display: block;
   position: relative;
   overflow: visible;
   border-left: none;
@@ -538,7 +535,7 @@ section:nth-child(even) {
   text-transform: uppercase;
   letter-spacing: 0.3px;
   white-space: nowrap;
-  justify-self: start;
+  margin-bottom: 0.6rem;
 }
 
 .edu-badge.current {
