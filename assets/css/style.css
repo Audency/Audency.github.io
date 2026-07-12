@@ -130,6 +130,26 @@ ul { list-style: none; }
   color: var(--crimson-dark) !important;
 }
 
+/* Language toggle */
+.lang-toggle {
+  background: transparent;
+  border: 1.5px solid var(--crimson);
+  color: var(--crimson);
+  font-family: inherit;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  padding: 0.3rem 0.65rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.lang-toggle:hover {
+  background: var(--crimson);
+  color: #fff;
+}
+
 /* Hamburger */
 .hamburger {
   display: none;
