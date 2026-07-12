@@ -13,6 +13,7 @@ London School of Hygiene &amp; Tropical Medicine (LSHTM)
 
 [![Live Site](https://img.shields.io/badge/🌐_Live_Site-audency.github.io-a51c30?style=for-the-badge)](https://audency.github.io)
 [![Email](https://img.shields.io/badge/📧_Email-audenciovictor@usp.br-1e3a5f?style=for-the-badge)](mailto:audenciovictor@usp.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Audêncio_Victor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aud%C3%AAncio-victor)
 [![GitHub](https://img.shields.io/badge/GitHub-Audency-181717?style=for-the-badge&logo=github)](https://github.com/Audency)
 
 <br>
@@ -108,6 +109,7 @@ Each paper is a `.pub-item` block inside the `#publications` section of `index.h
 
 [![Website](https://img.shields.io/badge/Website-audency.github.io-a51c30?style=flat-square&logo=googlechrome&logoColor=white)](https://audency.github.io)
 [![Email](https://img.shields.io/badge/Email-audenciovictor@usp.br-1e3a5f?style=flat-square&logo=gmail&logoColor=white)](mailto:audenciovictor@usp.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Audêncio_Victor-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aud%C3%AAncio-victor)
 [![GitHub](https://img.shields.io/badge/GitHub-Audency-181717?style=flat-square&logo=github)](https://github.com/Audency)
 
 <br>
