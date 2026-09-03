@@ -36,7 +36,7 @@ This repository hosts my personal academic portfolio — a single, fast-loading 
 | :--- | :--- |
 | 🎓 **Education** | PhD, MPH, and MBA training |
 | 💼 **Experience** | Postdoctoral and applied public-health work |
-| 📚 **Publications** | 35 peer-reviewed articles with DOI links, plus manuscripts under review |
+| 📚 **Publications** | 40 peer-reviewed articles with DOI links, plus 20 manuscripts under review |
 | 📝 **Editorial & Peer Review** | Editorial boards, journal reviewing, and recognition |
 | 🛠️ **Skills & Contact** | Technical skills and ways to get in touch |
 
