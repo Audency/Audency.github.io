@@ -311,6 +311,7 @@ document.querySelectorAll('.pub-tab').forEach(tab => {
     "Organising team": "Equipe de organização",
     "Submitted": "Submetido",
     "Accepted (30 Apr 2026)": "Aceito (30 de abril de 2026)",
+    "In press": "No prelo",
     "Submitted (2026)": "Submetido (2026)",
     "Submitted (26 Jun 2026)": "Submetido (26 de junho de 2026)",
     "Under Review (18 May 2026)": "Em Revisão (18 de maio de 2026)",
