@@ -78,6 +78,7 @@ document.querySelectorAll('.pub-tab').forEach(tab => {
     "Evidence Synthesis • Data Science & Big Data • Artificial Intelligence • Predictive Models • Machine Learning • Data Analysis (R, Python, Stata)": "Síntese de Evidências • Ciência de Dados e Big Data • Inteligência Artificial • Modelos Preditivos • Machine Learning • Análise de Dados (R, Python, Stata)",
     "Download CV": "Baixar CV",
     "LSHTM Profile": "Perfil LSHTM",
+    "LABDAPS Profile": "Perfil LABDAPS",
 
     // --- Section headers ---
     "Professional Experience": "Experiência Profissional",
@@ -130,7 +131,7 @@ document.querySelectorAll('.pub-tab').forEach(tab => {
     "Methodological research on non-communicable disease (NCD) surveillance, population-based surveys, and innovative data-collection approaches": "Pesquisa metodológica sobre vigilância de doenças crônicas não transmissíveis (DCNT), inquéritos de base populacional e abordagens inovadoras de coleta de dados",
     "Systematic review on multimodal data-collection strategies (SMS, IVR, mobile web, CATI) for telephone health surveys": "Revisão sistemática sobre estratégias multimodais de coleta de dados (SMS, URA, web móvel, CATI) para inquéritos telefônicos de saúde",
     "Modelling temporal trends in NCD risk factors using Vigitel data (2006–2024): ARIMA, exponential smoothing, Holt's method, Prophet": "Modelagem de tendências temporais de fatores de risco de DCNT com dados do Vigitel (2006–2024): ARIMA, suavização exponencial, método de Holt, Prophet",
-    "Reproducible analytical pipelines in R and Python informing public-health policy and BI tools": "Pipelines analíticos reprodutíveis em R e Python para subsidiar políticas de saúde pública e ferramentas de BI",
+    "Reproducible analytical pipelines in R and Python informing public-health policy": "Pipelines analíticos reprodutíveis em R e Python para subsidiar políticas de saúde pública",
     "Technical consulting to the Ministry of Health on COVID-19 surveillance indicators": "Consultoria técnica ao Ministério da Saúde sobre indicadores de vigilância da COVID-19",
     "Advanced data analysis for public-health decision-making and resource allocation": "Análise avançada de dados para tomada de decisão e alocação de recursos em saúde pública",
     "Contributed to developing national health policies and guidelines": "Contribuição para o desenvolvimento de políticas e diretrizes nacionais de saúde",
@@ -300,6 +301,9 @@ document.querySelectorAll('.pub-tab').forEach(tab => {
     "Under Review / Submitted": "Em Revisão / Submetidos",
     "Under Review": "Em Revisão",
     "Technical Reports": "Relatórios Técnicos",
+    "Book Chapters": "Capítulos de Livro",
+    "Peer-reviewed book chapter": "Capítulo de livro com revisão por pares",
+    "Chapter 10, pp. 157–184 (Saúde em Debate, 370). ISBN 978-85-8404-653-9": "Capítulo 10, pp. 157–184 (Saúde em Debate, 370). ISBN 978-85-8404-653-9",
     "Special Epidemiological Bulletin: COVID-19, No. 162 (April 2024)": "Boletim Epidemiológico Especial: COVID-19, n.º 162 (abril de 2024)",
     "Special Epidemiological Bulletin: COVID-19, No. 161 (March 2024)": "Boletim Epidemiológico Especial: COVID-19, n.º 161 (março de 2024)",
     "Special Epidemiological Bulletin: COVID-19, No. 160 (February 2024)": "Boletim Epidemiológico Especial: COVID-19, n.º 160 (fevereiro de 2024)",
@@ -313,6 +317,8 @@ document.querySelectorAll('.pub-tab').forEach(tab => {
     "Accepted (30 Apr 2026)": "Aceito (30 de abril de 2026)",
     "In press": "No prelo",
     "Submitted (2026)": "Submetido (2026)",
+    "Submitted (8 Nov 2026)": "Submetido (8 de novembro de 2026)",
+    "Submitted (Nov 2026)": "Submetido (novembro de 2026)",
     "Submitted (26 Jun 2026)": "Submetido (26 de junho de 2026)",
     "Under Review (18 May 2026)": "Em Revisão (18 de maio de 2026)",
     "Under Review (May 2025)": "Em Revisão (maio de 2025)",
@@ -336,7 +342,7 @@ document.querySelectorAll('.pub-tab').forEach(tab => {
     "Sou epidemiologista, cientista de dados, economista e nutricionista de saúde pública, atuando em saúde materna e neonatal e em machine learning aplicado a grandes bases de dados em saúde. Atualmente sou <strong>Pesquisador em Ciência de Dados em Saúde</strong> na <strong>London School of Hygiene & Tropical Medicine (LSHTM)</strong>, Universidade de Londres, onde contribuo para um projeto financiado pelo Wellcome Trust sobre modelagem preditiva de natimortos e óbitos neonatais na África Subsaariana, leciono a disciplina de pós-graduação Métodos Estatísticos em Epidemiologia e oriento dissertações de mestrado. Também sou <strong>Pesquisador Visitante no PROADI-SUS, Hospital Israelita Albert Einstein</strong> (São Paulo), conduzindo pesquisa metodológica sobre vigilância de doenças crônicas não transmissíveis, estratégias multimodais de inquéritos de saúde e modelagem preditiva com dados nacionais de vigilância.",
     "Sou <strong>Doutor em Saúde Pública – Epidemiologia</strong> pela Universidade de São Paulo (USP), com estágio de pesquisa na LSHTM. Tenho também Mestrado em Epidemiologia pela Universidade Federal da Bahia (UFBA), Bacharelado em Nutrição pela Universidade Lúrio e Pós-Graduação em Saúde Pública (Monitoramento, Avaliação e Informação Estratégica, UFBA). Concluí MBAs em Data Science & Analytics (USP-Esalq), Inteligência Artificial & Big Data (ICMC-USP) e Gestão de Projetos (USP-Esalq), além de uma especialização em Economia da Saúde & ATS (UNICAMP, em andamento).",
     "Profissionalmente, atuei como Consultor Técnico (Epidemiologista e Cientista de Dados) na <strong>Organização Mundial da Saúde (OPAS/OMS)</strong>, apoiando o Ministério da Saúde do Brasil com análise de dados e orientações de política sobre a COVID-19. Na Secretaria de Estado da Saúde de São Paulo, realizei análises espaciais, previsão de doenças (meningite, influenza, COVID-19) e modelagem preditiva. Como Curador Científico e Analista de Dados no Pacto Contra a Fome, traduzi evidências complexas em insights acionáveis para a política nacional de segurança alimentar. Anteriormente, trabalhei como nutricionista no Ministério da Saúde de Moçambique, liderando programas distritais de nutrição na Maganja da Costa e contribuindo para estudos nacionais de desnutrição com o UNICEF e o Programa Mundial de Alimentos (PMA).",
-    "Sou membro ativo de grupos de pesquisa, incluindo o LABDAPS (USP), o MARCH Centre (LSHTM), a Rede CoVida e o grupo de Epidemiologia, Estatística e Matemática Aplicada da UFMS, e atuo como revisor de diversos periódicos nacionais e internacionais. Minha pesquisa concentra-se em métodos quantitativos aplicados à saúde pública — estatística descritiva, inferencial e bayesiana, modelagem matemática e abordagens preditivas de machine learning. No trabalho diário, utilizo SPSS, Stata, R e Python, além de Git/GitHub, R Markdown, LaTeX, Quarto, MLflow, REDCap e KoBoToolbox para apoiar a pesquisa reprodutível.",
+    "Sou membro ativo de grupos de pesquisa, incluindo o <a href='https://labdaps.fsp.usp.br/membro/audencio-victor-' target='_blank' rel='noopener'>LABDAPS (USP)</a>, o MARCH Centre (LSHTM), a Rede CoVida e o grupo de Epidemiologia, Estatística e Matemática Aplicada da UFMS, e atuo como revisor de diversos periódicos nacionais e internacionais. Minha pesquisa concentra-se em métodos quantitativos aplicados à saúde pública — estatística descritiva, inferencial e bayesiana, modelagem matemática e abordagens preditivas de machine learning. No trabalho diário, utilizo SPSS, Stata, R e Python, além de Git/GitHub, R Markdown, LaTeX, Quarto, MLflow, REDCap e KoBoToolbox para apoiar a pesquisa reprodutível.",
     "Estou sempre aberto a discutir colaborações de pesquisa, oportunidades de consultoria e projetos de ciência de dados em saúde pública. Sinta-se à vontade para entrar em contato. <em>Referências disponíveis mediante solicitação.</em>"
   ];
 
